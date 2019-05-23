@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSS Styling Code Along
 
 ## Objectives
@@ -52,3 +53,6 @@ git push
 ```
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling' title='CSS Styling'>CSS Styling</a> on Learn.co and start learning to code for free.</p>
+=======
+Exceptional Realty Group Website' and on a new line, we'll add a description: 'This is an example site for the Intro to Front-End Web Development course at the Flatiron School'.
+>>>>>>> 154dbb06cd80bd38de714a5da7a5d45d3dc26629
